@@ -11,16 +11,15 @@ revision_utc: 2026-11-20T09:00:00Z
 status: draft
 ---
 
-# 本周可写的技术笔记
+# 本周项目与技术笔记
 
-## 主题
+## 项目名称或描述性代号
 
 ### 2026-11-18 · 具体问题
 
-- 问题：...
-- 做法与结果：...
-- 可复用的经验：...
-- 待核实：...
+- 进展：本周推进到哪里，有哪些可核实的产出或结果。
+- 推理与方案：约束、讨论过的选项、关键算法或实现机制，以及选择依据。
+- 验证与后续：已验证的结果、尚待测试的假设，或下一项明确决策。
 ```
 
-Omit empty sections. Do not invent accomplishments, dates, citations, or outcomes.
+Use paragraphs or bullets to fit the material. Put the most substantive project first. Tie each technical point to the project decision or milestone it informed. Distinguish proposals from implemented or verified work. Omit empty sections and avoid unsupported claims.
