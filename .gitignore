@@ -1,0 +1,7 @@
+*.local
+.env*
+drafts/
+inbox/
+*.jsonl
+week-*-work.md
+week-*-final.md
